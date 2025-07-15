@@ -59,6 +59,10 @@ A 3D solar system simulation built with React, Three.js, and Tailwind CSS.
 
 See a video demo in the assignment submission.
 
+## 🌐 Live Preview
+
+[Live Preview on Vercel](https://3d-solar-system-eight.vercel.app/)
+
 ---
 
 **Made by Rajeev**
